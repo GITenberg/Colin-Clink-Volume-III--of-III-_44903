@@ -1,0 +1,42 @@
+_repo: Colin-Clink-Volume-III--of-III-_44903
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hooton, Charles
+    deathdate: 1847
+    gutenberg_agent_id: '42977'
+    url: http://www.gutenberg.org/2009/agents/42977
+description: ''
+gutenberg_issued: '2014-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: Colin Clink, Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/44903
